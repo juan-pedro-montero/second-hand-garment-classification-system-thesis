@@ -1,0 +1,34 @@
+# Tesis de Máster: Sistema de Clasificación de Ropa de Segunda Mano
+
+Este repositorio es un escaparate (showcase) de mi Tesis de Máster, **"Un Sistema de Clasificación de Ropa de Segunda Mano usando un Meta-Learner"**, la cual fue galardonada con una calificación de **10/10 y Matrícula de Honor**.
+
+El proyecto, desarrollado bajo principios de **Green AI (IA Verde)**, propone un meta-learner para clasificar automáticamente ropa de segunda mano a partir de imágenes para determinar su destino en la economía circular (ej. reutilización, reciclaje).
+
+**Nota Importante: El código fuente de este proyecto se mantiene confidencial y no está incluido en este repositorio.**
+
+---
+
+### 1. Problema y Metodología
+
+El desafío central era diseñar un sistema que pudiera clasificar prendas con precisión, siendo al mismo tiempo computacional y ambientalmente eficiente.
+
+* **Arquitectura:** Un **meta-learner** basado en una arquitectura de *stacking*.
+* **Modelos:** Se combinaron modelos de Machine Learning (Bagging & Boosting) con Visión Computacional (Descriptores Visuales).
+* **Enfoque Green AI:** El proceso de entrenamiento fue monitoreado para cuantificar y minimizar su huella de CO2, probando la viabilidad de un desarrollo de IA sostenible.
+
+---
+
+### 2. Resultados Clave
+
+| Métrica | Resultado |
+| :--- | :--- |
+| **Macro F1-score** | 41.52% |
+| **Emisiones de CO2** | 2.39 kg |
+
+---
+
+### 3. Documento Completo de la Tesis (PDF)
+
+Para un análisis completo de la metodología, la experimentación y los resultados, el documento completo de la tesis está disponible en este repositorio.
+
+➡️ **[Leer la Tesis Completa (PDF)](./second_hand_garment_classification_system_thesis.pdf)**
